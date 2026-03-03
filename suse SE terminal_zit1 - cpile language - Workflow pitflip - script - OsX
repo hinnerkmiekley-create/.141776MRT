@@ -1,19 +1,26 @@
+#
+###. ..[36]
+#  suselinux Se terminal ,, cpile -ls .. ###
+#
 ## Z.ITT ##
-###  zit1   c.pile language   ###
+###  {zit1}   c.pile language   ###   ..
 #  suselinux Se terminal - lossless workflow #
 #      ## Tabellenkalkulilation/Automatisation  ##
-##.   .  . . #  ## 
+##.   .  . . #  ## . .    #
+#
 ## Dependencies ##
 ###  -  OsX
 ###   -  Texteditor
+.
 ##
-#
-##  prerequisietes ##
+#.
+#.
+##  prerequisietes ## . .
 ###  -  open texteditor, type start, 2xbreak, (script.txt), script
-#
-#
+#.
+#. .
 ###  script   #######
-##
+## Ip Routing ## . .    .
 #
 on: ipconfig -U -(localhost)  -(telefonica)
   #
@@ -39,23 +46,21 @@ jobs: pit4rom //root/kernel/
       ##№#
       #
 #
-#
+#.
       #### Befehle ###
-      -  zit1  {Grundbefehl/Kernelebene}
-      -  pit4  {nandflash}
-      -  rom   {+linux basic}
-
-
-
-
-
-
-      ###7741###
-
-
-
-
-
-
-.
-      ###7741###
+#      -  zit1  {Grundbefehl/Kernelebene}
+#      -  pit4  {nandflash}
+ #     -  rom   {+linux basic}
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+# .
+#  .   ###7741###
+##
