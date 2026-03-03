@@ -3,10 +3,10 @@
 ######
 ##   suselinux SE Kernel
 ..
-#
+#   NAND flash ipc -ls
 sudoexe pit4 -fdisk rom -U //root/kernel/
 ##
-#
+#   lossless KERNEL flash {firmwareupgrade}
 zit1  k.alipe c.pile -U rom nandflash
 -f rom -fw-update rom c.pile rom nandflash   (dist.iso/zip)
 
