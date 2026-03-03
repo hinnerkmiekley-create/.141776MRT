@@ -18,7 +18,7 @@ Medizintechnik
 Ip:
 666.6.6.6
 ##.#####....   .#-4-4-0-1-#..   .  ..
-## Player Tag = [Kobata]\DDAAEE  ##..
+## [44Player Tag] = [Kobata]\DDAAEE  ##..
 #.
 ##    ##
 ...,......,.......,.....,....,
