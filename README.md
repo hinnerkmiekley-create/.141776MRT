@@ -2,17 +2,25 @@
 .####
 ###### suse linux Se 1.2 terminal  #### NAND flash
 ## Ai
+## Resonanztechnik
 
-# .141776MRT##1.141k.alipe
+# .141776MRT##1.141k.alipe  #
 Medizintechnik
+-  MrT Numische Formel √π×0,5×D2÷0,5π
+-  MrT Rundlaufformel {e100-2.14}
 
+
+
+
+#
 #  Gamingtests  #
-Developer full AI Test:
++++++++Developer full AI Test:++++++++
+Ip:
 666.6.6.6
-#
-## Player Tag = Kobata ##
-#
-
+##.#####....   .#-4-4-0-1-#..   .  ..
+## Player Tag = [Kobata]\ ##..
+#.
+###########
 ...,......,.......,.....,....,
 #
 ######
@@ -25,10 +33,11 @@ Developer full AI Test:
 -
 -
 .
-#############  ..
-##1.4147##
+#############  ..1.4147
+####.
 #
-
+print -f localSite
 . .  .
-###Kobata## .
-
+###4417## .
+###
+.  ###      [3315]   ; ############# ;
