@@ -1,1 +1,22 @@
-zit1  ut.exe -fdisk -U k.alipe c.pile ut.exe/ -U 1.2.4.1z¼
+######################
+#########
+######
+##   suselinux SE Kernel
+..
+#
+sudoexe pit4 -fdisk rom -U //root/kernel/
+##
+#
+zit1  k.alipe c.pile -U rom nandflash
+-f rom -fw-update rom c.pile rom nandflash   (dist.iso/zip)
+
+
+
+
+
+
+
+
+
+###7741###
+1.2.4.1
