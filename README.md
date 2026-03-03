@@ -1,3 +1,6 @@
+###### suse linux Se 1.2 terminal  #### NAND flash
+## Ai
+
 # .141776MRT
 Medizintechnik
 
