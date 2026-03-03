@@ -1,0 +1,54 @@
+## Z.ITT ##
+###  zit1   c.pile language   ###
+#  suselinux Se terminal - lossless workflow #
+#      ## Tabellenkalkulilation/Automatisation  ##
+.   .  . . #  ## 
+##
+#
+name: Zit1
+##
+##
+on: zit1  ipconfig -U -(localhost)  -(telefonica)
+  #
+  ##
+  push: zit1 localhost
+  ###
+  pull_request: pit4rom nandflash
+    branches: [ "main" ]
+##########
+  ######
+  workflow_dispatch:
+zit1 ipconfig -telefonicaIp -proxy -U -DeviceIp -WifiUefiRouter -U -DeviceIp
+#####
+jobs: pit4rom //root/kernel/
+##
+  build: zit1 localIp{localhost}
+    #########
+    runs-on: xxxdistro
+
+    ####
+    steps: rom
+      ###########
+      ##№#
+      #
+
+
+      #### Befehle ###
+      -  zit1  {Grundbefehl/Kernelebene}
+      -  pit4  {nandflash}
+      -  rom   {+linux basic}
+
+
+
+
+
+
+      ###7741###
+
+
+
+
+
+
+.
+      ###7741###
