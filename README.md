@@ -1,3 +1,5 @@
+#
+#.:::?#446699##
 #::   ZIT1 -c  ::-------------------
 ## ..  -A{pit4; sudoexe; nandflash}
 #. . .  #{pit4romexe-ls} [36]#
