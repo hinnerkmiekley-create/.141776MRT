@@ -22,6 +22,8 @@ print
 #.:::?#
 #::   ZIT1 -cpile -print  ::[34]::##9876## -print -f
 #####
+####   
+##  kobata . .
 [
   +++++
         ]
