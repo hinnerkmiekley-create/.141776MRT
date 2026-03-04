@@ -1,4 +1,5 @@
 #::;      SUSE NANDFLASH--
+#; :
 #:::::. readme.
 #.:::?#
 #::   ZIT1 -cpile -print  ::----------
