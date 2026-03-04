@@ -53,6 +53,10 @@ print
 #.]
 #####
 #
+##
+##
+#
+#####   MrT   ####
 # .141776MRT##1.141k.alipe  #
 # Medizintechnik#.
 #-  MrT Numische Formel √π×0,5×D2÷0,5π
