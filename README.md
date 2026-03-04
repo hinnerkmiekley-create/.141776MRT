@@ -31,7 +31,7 @@ print
 #  - lossless live KERNEL
 #### NAND flash #.
 #  - I86/x86  romflash
-#### Ai #.
+#### Ai - Game development Test Server ####
 #  - 666.6.6.6 opensource
 ## Resonanztechnik #.
 #  - Erf. Nr.: 1.341 It
