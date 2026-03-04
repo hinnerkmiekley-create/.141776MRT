@@ -1,16 +1,17 @@
+#####
 print
 ####   C++ compile - ZIT-ls
 ::
 #####
-##
+####
 #
-##
 #####
-###. ..[36]
+#####
+####. ..[36]
 #  suselinux Se terminal ,, cpile -ls .. ###
 #
-## Z.ITT ##
-###  {zit1}   c.pile language   ###   ..
+#### Z.ITT ####
+####  {zit1}   c.pile language   ###   ..
 #  suselinux Se terminal - lossless workflow #
 #      ## Tabellenkalkulilation/Automatisation  ##
 ##.   .  . . #  ## . .    #
@@ -18,22 +19,22 @@ print
 ## Dependencies ##
 ###  -  OsX
 ###   -  Texteditor
-.
+#####
 ##
 #.
 #.
 ##  prerequisietes ## . .
 ###  -  open texteditor, type start, 2xbreak, (script.txt), script
-#.
+##
 #. .
-###  script   #######
+####  script   #######
 ## Ip Routing ## . .    .
 #
 on: ipconfig -U -(localhost)  -(telefonica)
   #
-  ##
+  ####
   push: localhost
-  ###
+  #####
   pull_request: pit4rom nandflash
     branches: [ "main" ]
 ##########
@@ -42,7 +43,7 @@ on: ipconfig -U -(localhost)  -(telefonica)
 zit1 ipconfig -telefonicaIp -proxy -U -DeviceIp -WifiUefiRouter -U -DeviceIp
 #####
 jobs: pit4rom //root/kernel/
-##
+####
   build: zit1 localIp{localhost}
     #########
     runs-on: xxxdistro
@@ -50,10 +51,10 @@ jobs: pit4rom //root/kernel/
     ####
     steps: rom
       ###########
-      ##№#
+      ####
       #
 #
-#.
+#
       #### Befehle ###
 #      -  zit1  {Grundbefehl/Kernelebene}
 #      -  pit4  {nandflash}
@@ -63,7 +64,8 @@ jobs: pit4rom //root/kernel/
 #
 #
 #
-# .
-#  .   ###7741###
-##
+#####
+###7741###
+#
 ::
+print
