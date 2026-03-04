@@ -1,7 +1,7 @@
 print
 mainbatch suse terminal mainbatch
 ::
-##### zit1   disk1   rom1   c.pile
+#####
 ##   Haupttabellenfunktion / OsX {x86/Ip}
 #####
 ##
