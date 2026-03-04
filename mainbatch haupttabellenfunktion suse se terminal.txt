@@ -1,0 +1,21 @@
+print
+mainbatch suse terminal mainbatch
+::
+#####
+##   Haupttabellenfunktion / OsX {x86/Ip}
+#####
+##
+#
+#### suse linux mainbatch terminal se batch
+#####
+##
+#####
+#
+#
+[33;46]   pit4   nandram fdisk -U rom zit1   -fdisk -table -U pit4 -glib -V telnet ram -glib -V rom
+#####
+#####
+##
+::
+###4471###
+print
