@@ -1,5 +1,6 @@
+#::   ZIT1 -c  ::-------------------
 #. . .  {pit4romexe-ls} [36]
-.####
+.####------------
 ###### suse linux Se 1.2 terminal #.
 #  - lossless live KERNEL
 #### NAND flash #.
