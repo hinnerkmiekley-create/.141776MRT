@@ -1,0 +1,15 @@
+##  telnet uplink - suse SE terminal 1.2
+##  [33]pit4   nand rom {localRom}
+::
+#####
+;
+#####
+#
+print
+start
+telnet
+rom/hostIp -fdisk -U {localRom}
+#####
+telnet
+print
+;;;;;;;;;;;;;;;;;;;
