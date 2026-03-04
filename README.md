@@ -4,7 +4,7 @@
 #.:::?#
 #::   ZIT1 -cpile -print  ::----------
 #
-#.  ####--
+#.  ####-- . .        #
 #;; -c {clanguage}::
 ;   -------
 ## ..  -A{pit4; sudoexe; nandflash}
