@@ -40,7 +40,7 @@ SUSE LINUX SE-ls
 #
 #### +++ ZIT1 firmware upgrade - suse terminal coding +++
 #####
-#:: script #
+#:: bash-script suse terminal #
 #### .. zit1 -A{pit4; sudoexe; nandflash}[33] ####
 #
 #####
