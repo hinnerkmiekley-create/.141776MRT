@@ -11,8 +11,8 @@ SUSE LINUX SE-ls
 #####
 ####    suse linux - firmware upgrade/live-ls
 ::
-#####
-:: ####
+##### clanguage
+:: ####   ZIT1   ####
 #####
 :: ####   ±±±±±±±   ####
 #;::+++++####+++++####+++++####++++?::
