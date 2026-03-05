@@ -36,7 +36,13 @@ SUSE LINUX SE-ls
 ##
 #
 #### zit1 c plus plus ####
-#### .. zit1 -A{pit4; sudoexe; nandflash}[]
+#####
+#
+#### +++ ZIT1 firmware upgrade - suse terminal coding +++
+#####
+# script
+#### .. zit1 -A{pit4; sudoexe; nandflash}[33] ####
+#
 #####
 ##
 #
@@ -45,17 +51,24 @@ SUSE LINUX SE-ls
 ####  . . . ##{pit4romexe-ls}#[36]#
 #####
 #####  ------------ . .
+#
+#####
 ##### suse linux Se 1.2 terminal #.
 #  - lossless live KERNEL
 ##### NAND flash #.
 #  - I86/x86  romflash
-##### Ai - Game development Test Server ####
+#
+#####
+#
+#####
+##### Ai - Game development Test Server #####
 #  - 666.6.6.6 opensource
 #### Resonanztechnik ####
 #  - Erf. Nr.: 1.341 It
 #  - Lapedusa.de :: 0.941
 #####
 #
+#####
 [#####. .   .      #
 #.]
 #####
@@ -66,8 +79,11 @@ SUSE LINUX SE-ls
 #-  MrT Rundlaufformel {e100-2.14}
 #.
 #####
+#
 ##; ::  [++++++] ##
 #####
+#####
+#
 #####
 ##.#####....   .#-4-4-0-1-#..   .  ..
 #####
@@ -77,7 +93,7 @@ SUSE LINUX SE-ls
 #####:[ [Player Tag] = [Kobata]\DDAAEE::#####
 #####
 ##..]
-####
+####::
 #####
 ...,......,.......,.....,....,
 #
@@ -91,13 +107,21 @@ SUSE LINUX SE-ls
 -
 -
 .
+#
 #############  ..{1.4147}
-####::  ;
+#
+####::  ; ####
 #
 . .  .;
 #####
 ###4417### .
-####
-.  ###      4.[3315]   ; ############# ; ::  ; ---::
+#####
+#
+.  ###      4.[3315]   ; 
+#
+#####
+#
+############## ; ::  ; ---::
+#
 #####
 print
