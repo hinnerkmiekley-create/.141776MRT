@@ -1,0 +1,14 @@
+print
+::
+##
+#
+##
+#####
+suse linux se - lossless live-compiling sudoterminal system
+#####
+##
+#
+#####
+###4471###
+::
+print
