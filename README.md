@@ -24,12 +24,15 @@ SUSE LINUX SE-ls
 #;::+++++####+++++####+++++####++++?::
 #####suse linuxse terminal 1.2
 #::;_---------_--------_--------[4417]∆::.
+#
 #####
 #::;      SUSE NANDFLASH--
 #; :      /homebrew/z.itt/
 #;:::::. readme.
 #.:::?#
-#::   ZIT1 -cpile -print  ::[34]::##9876## -print -f
+#::   ZIT1 -cpile -print  ::
+#[34]::##9876## -print -f -glib -python - telnet 666.6.6.6 rom  print
+#
 #####
 [
   +++++
@@ -38,6 +41,7 @@ SUSE LINUX SE-ls
 #.;  ####-- . .        #
 #;; -c {clanguage}::
 ;   -------##
+#
 #####
 ##
 #
@@ -68,7 +72,8 @@ SUSE LINUX SE-ls
 #
 #####
 ##### Ai - Game development Test Server #####
-#  - 666.6.6.6 opensource
+#  - 666.6.6.6#glib -telnet 666.6.6.6 -glib -telnet rom  glib -telnet 666.6.6.6# opensource
+#
 #### Resonanztechnik ####
 #  - Erf. Nr.: 1.341 It
 #  - Lapedusa.de :: 0.941
