@@ -12,7 +12,7 @@ print
 # - suse terminal 1.0
 #####
 # c o d e
-python telnet start zit1 python glib telnet {1xbreak/enter}
+python -telnet start zit1 python glib telnet {1xbreak/enter}
 print
 ::  python compile /write
 zit1 python π=√π×D^2+3,14÷π×3,19+1=0  -glib telnet nandrom glib python -glib telnet nandrom -glib python start telnet
