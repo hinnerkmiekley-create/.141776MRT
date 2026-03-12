@@ -16,12 +16,13 @@ SUSE LINUX SE-ls
 :: ####   ZIT1   ####
 #
 #####
-#[11] https://github.com/hinnerkmiekley-create/.141776MRT/blob/56649206184b9da37caddce1e1f5a8df36d95810/susese-1_0-terminal_buildscript_osx.php #
+#[11]  #
 #####
 #
 #####
-:: ####   ±±±±±±±   ####
-#;::+++++####+++++####+++++####++++?::
+#
+# :: ####   ±±±±±±±   ####
+# ::+++++####+++++####+++++####++++?::
 #####suse linuxse terminal 1.2
 #::;_---------_--------_--------[4417]∆::.
 #
@@ -139,5 +140,9 @@ SUSE LINUX SE-ls
 ############## ; ::  ; ---::
 #
 #####
+#
+#  https://github.com/hinnerkmiekley-create/.141776MRT/blob/56649206184b9da37caddce1e1f5a8df36d95810/susese-1_0-terminal_buildscript_osx.php
+#
 print
+
 
