@@ -3,7 +3,7 @@
 name: Zit1
 
 # Controls when the workflow will run
-on: zit1  ipconfig -U -1.9.5.3  -4.5.66 -ut.exe
+on: python  ipconfig -U -1.9.5.3  -4.5.66 -ut.exe
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push: zit1 666.6.6.6
     branches: [ "main","code" ]
