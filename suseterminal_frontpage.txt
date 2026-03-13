@@ -1,0 +1,17 @@
+suse terminal
+cache compile
+::
+print
+##
+# 4-4-0-1
+#####
+##
+#
+#####
+#
+#
+#
+::
+print
+
+
