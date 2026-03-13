@@ -1,16 +1,16 @@
 suse linux se - terminal - ver. 1.2
 c++ coding
-print
 ::
+print
 ##
 # Z.ITT
 #####
 ##
 # coding
-#####
+#
 # dependencies
 # - suse terminal 1.0
-#####
+#
 # c o d e
 # 
 python -telnet start zit1 python glib telnet {1xbreak/enter}
@@ -29,11 +29,12 @@ zit1 python telnet rom  glib python telnet rom  zit1 python telnet rom  glib tel
 print
 ::
 #
-#####
+#
 ###44417###
 #
 ::
 print
+
 
 
 
