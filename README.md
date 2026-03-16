@@ -26,7 +26,7 @@ SUSE LINUX SE-ls
 #
 # :: ####   ±±±±±±±   ####
 # ::+++++####+++++####+++++####++++?::
-#####suse linuxse terminal 1.2
+##### terminal
 # ::;_---------_--------_--------[4417]∆::.
 #
 #####
@@ -34,7 +34,8 @@ SUSE LINUX SE-ls
 # ;:::::. readme.
 # .:::?#
 # ::   ZIT1 -cpile -print  ::
-# [34]::##9876## -print -f -glib -python - telnet 666.6.6.6 rom  print
+# [34]::##9876## -print -f -glib -python - telnet rom  
+print
 #
 #
 #####
@@ -53,7 +54,6 @@ SUSE LINUX SE-ls
 #
 #####
 #
-#### +++ ZIT1 firmware upgrade - suse terminal coding +++
 #
 #####
 # :: bash-script suse terminal #
@@ -69,7 +69,7 @@ SUSE LINUX SE-ls
 #####  ------------ . .
 #
 #####
-##### suse linux Se 1.2 terminal #.
+#
 #  - lossless live KERNEL
 ##### NAND flash #.
 #  - I86/x86  romflash
@@ -77,15 +77,13 @@ SUSE LINUX SE-ls
 #####
 #
 #####
-##### Ai - Game development Test Server
-- 666.6.6.6#glib -telnet 666.6.6.6 -glib -telnet rom  glib -telnet 666.6.6.6# opensource
 #
 #
 #
 #
 #### Resonanztechnik ####
 #  - Erf. Nr.: 1.341 It
-#  - Lapedusa.de :: 0.941
+#  - Lapedusae :: 0.941
 #
 #####
 #
