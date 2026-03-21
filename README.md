@@ -4,6 +4,13 @@ print
 ##
 #
 #####
+#
+Mathematische Formeln zur Eingabe in C++
+#
+Kernschwingungsberechnungen, wie sie für die Berechnung des Rundlaufmodus des M.r.T angewandt werden können.
+#
+#####
+#
 # nandromflash
 #
 #####
