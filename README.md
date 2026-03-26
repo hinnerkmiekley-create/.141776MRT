@@ -21,8 +21,6 @@ SUSE LINUX SE-ls
 #####
 ####    suse linux - firmware upgrade/live-ls
 #
-##### clanguage #####
-####   ZIT1   ####
 #
 #####
 #
@@ -57,7 +55,6 @@ print
 #
 #
 #
-#### zit1 c plus plus ####
 #
 #####
 #
@@ -89,8 +86,6 @@ print
 #
 #
 #### Resonanztechnik ####
-#  - Erf. Nr.: 1.341 It
-#  - Lapedusae :: 0.941
 #
 #####
 #
